@@ -1,16 +1,16 @@
 👋 Hi, I’m @GeorgeIL!
 
-👀 I’m interested in coding and creating useful apps for my day-to-day life, with a goal of eventually making a positive impact on the world.
+🎓 Practical Software Engineering Graduate.
 
-🌱 I’m currently learning C#, Lua, Python, HTML, and CSS.
+💻 Backend focused developer passionate about building reliable, data driven systems and solving real world problems through clean, efficient code.
 
-💞️ I’m looking to collaborate on finishing my school projects atm. :D
+🧠 Experienced with C#, JS, SQL and MongoDB, with hands on work in API development and full-stack app design.
 
-📫 Reach me via DM.
+🃏 Creator of PokerMate, a full stack poker tracking and problem solving app designed to analyze games, settle debts, and automatically correct inconsistencies using logical algorithms.
 
-⚡ Fun fact: I love data and am always up for a game of poker!
-
-
+🌱 Always learning – currently improving my skills in Python and backend architecture.
+🤝 Open to collaborations on practical, problem-solving projects and real-world applications.
+⚡ Fun fact: I love data analytics, automation, and (of course) a good game of poker.
 <!---
 GeorgeIL/GeorgeIL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
