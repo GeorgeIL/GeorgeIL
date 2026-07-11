@@ -1,9 +1,8 @@
-# Giora Glovatsky
+# AI Engineer · Full-Stack Developer
 
-**AI Engineer · Full-Stack Developer**
 Building AI-powered backends and full-stack apps that get used in the real world.
 
-Software Engineering graduate (Ruppin Technical College — GPA 96, Great Distinction), currently in a
+Software Engineering graduate (Ruppin Technical College, GPA 96, Great Distinction), currently in a
 180-hour AI engineering program focused on RAG, agent orchestration, and production-oriented backend work.
 I care about systems people actually rely on: two of the projects below run in live home games and settle
 real money.
@@ -16,21 +15,17 @@ RAG & agent workflows · FastAPI / Flask / Next.js backends · React front-ends 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **Poker Solver** *(private)* | All-in-one live-poker platform — real-time tables, session tracking, equity tools, and multi-currency debt settlement. Actively used in live and online home games. | React · FastAPI · MongoDB · WebSockets · n8n |
+| **Poker Solver** *(private)* | All-in-one live-poker platform: real-time tables, session tracking, equity tools, and multi-currency debt settlement. Actively used in live and online home games. | React · FastAPI · MongoDB · WebSockets · n8n |
 | **RAG Cookbook** | AI recipe & pantry assistant: a grounded "AI chef" over a vector-search RAG pipeline, plus AI image generation for dishes. | Python · Flask · AWS · Vector search |
-| **Fin-Track** *(private)* | AI-assisted personal finance tracker — AI statement/receipt import, an in-app financial assistant, multi-currency trips, and a subscription watchdog. Replaced 5 years of my own spreadsheets. | Next.js · MongoDB · Tailwind · Vercel |
+| **Fin-Track** *(private)* | AI-assisted personal finance tracker: AI statement/receipt import, an in-app financial assistant, multi-currency trips, and a subscription watchdog. Replaced 5 years of my own spreadsheets. | Next.js · MongoDB · Tailwind · Vercel |
 
-Live demos & full case studies — *coming soon.*
+Live demos & full case studies: coming soon.
 
 ### Toolbox
 
 `Python` `C#` `JavaScript` `FastAPI` `Flask` `Next.js` `React` `.NET` `REST APIs`
 `LangChain` `LangGraph` `MCP` `RAG` `Prompt engineering`
 `MongoDB` `PostgreSQL` `SQL` `AWS` `Git / Git Flow`
-
-### Reach me
-
-[Email](mailto:glovatskyg@gmail.com) · [LinkedIn](https://linkedin.com/in/giora-glovatsky)
 
 <!---
 GeorgeIL/GeorgeIL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
