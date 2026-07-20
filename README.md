@@ -15,7 +15,7 @@ RAG & agent workflows · FastAPI / Flask / Next.js backends · React front-ends 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **Poker Solver** *(private)* | All-in-one live-poker platform: real-time tables, session tracking, equity tools, and multi-currency debt settlement. Actively used in live and online home games. | React · FastAPI · MongoDB · WebSockets · n8n |
+| **Chipzy** *(private)* | All-in-one live-poker platform: real-time tables, session tracking, equity tools, and multi-currency debt settlement. Actively used in live and online home games. | React · FastAPI · MongoDB · WebSockets · n8n |
 | **RAG Cookbook** | AI recipe & pantry assistant: a grounded "AI chef" over a vector-search RAG pipeline, plus AI image generation for dishes. | Python · Flask · AWS · Vector search |
 | **Fin-Track** *(private)* | AI-assisted personal finance tracker: AI statement/receipt import, an in-app financial assistant, multi-currency trips, and a subscription watchdog. Replaced 5 years of my own spreadsheets. | Next.js · MongoDB · Tailwind · Vercel |
 
